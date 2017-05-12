@@ -1,0 +1,22 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="novinky.cz" resolutions="1x" timestamp="1494621890549">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="ke-stazeni.css" crc="4096672812" ref="ke-stazeni"/>
+    <file name="index.css" crc="3924754565" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ke-stazeni"/>
+    <file name="museutils.js" crc="4232573551" ref="index:ke-stazeni"/>
+    <file name="whatinput.js" crc="86476730" ref="index:ke-stazeni"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:ke-stazeni"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:ke-stazeni"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:ke-stazeni"/>
+    <file name="require.js" crc="4234670167" ref="index:ke-stazeni"/>
+  </folder>
+  <folder name="images">
+    <file name="u97-4.png" crc="4107517123" ref="index"/>
+  </folder>
+  <file name="index.html" crc="442672608" seo="true" mt="1494620713938" redirect="true"/>
+  <file name="ke-stazeni.html" crc="4283617016" seo="true" mt="1494620780914" redirect="true"/>
+</manifest>
